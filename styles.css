@@ -95,11 +95,24 @@
   text-align: center;
   font-size: 30px;
   text-shadow: transparent;
+  font-family: 'Amatic SC', cursive;
 }
 
 .icons {
-  height: 100px;
-  width: 100px;
+  height: 80px;
+  width: 80px;
 }
 
+/*.icons:hover {
+  cursor: pointer;
+}*/
+
+/*.text:hover {
+  cursor: pointer;
+}*/
+
+.click:hover {
+  cursor: pointer;
+   text-shadow: 2px 2px 2px #FFFFFF;
+}
 
