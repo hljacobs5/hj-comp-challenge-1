@@ -4,9 +4,11 @@
   grid-gap: 0px;
   /*min-width: 1000px;*/
   max-width: 1250px;
+  min-width: 1250px;
   margin: 0 auto;
   margin-top: 0px;
   margin-left: 0px;
+  /*position: relative;*/
 }
 
 .box1 {
@@ -14,6 +16,7 @@
   width: 469px;
   height: 233px;
   background-color: #0097A7;
+  /*position: relative;*/
 }
 
 .box2 {
@@ -21,8 +24,9 @@
   grid-row: 1;
   height: 233px;
   width: 233px;
-  background-color: #212121;
-  margin-left: -80px;
+  background-color: #CFD8DC;
+  margin-left: -72px;
+  /*position: relative;*/
 }
 
 .box3 {
@@ -31,17 +35,19 @@
   height: 233px;
   width: 233px;
   background-color: #607D8B;
-  margin-top: -466px;
+  margin-top: -470px;
+  /*position: relative;*/
 }
 
 .box4 {
   grid-column: 2;
-  margin-left: -315px;
-  margin-top: -466px;
+  margin-left: -308px;
+  margin-top: -470px;
   grid-row: 2;
   height: 233px;
   width: 236px;
   background-color: #B2EBF2;
+  /*position: relative;*/
 }
 
 .box5 {
@@ -50,8 +56,9 @@
   height: 233px;
   width: 233px;
   background-color: #0097A7;
-  margin-left: -310px;
-  margin-top: -466px;
+  margin-left: -305px;
+  margin-top: -470px;
+  /*position: relative;*/
 }
 
 .box6 {
@@ -60,17 +67,19 @@
   height: 233px;
   width: 233px;
   background-color: #B2EBF2;
-  margin-top: -233px;
+  margin-top: -237px;
+  /*position: relative;*/
 }
 
 .box7 {
   grid-column: 2;
-  margin-left: -315px;
-  margin-top: -233px;
+  margin-left: -308px;
+  margin-top: -237px;
   grid-row: 3;
   height: 233px;
   width: 236px;
   background-color: #607D8B;
+  /*position: relative;*/
 }
 
 .box8 {
@@ -79,16 +88,11 @@
   height: 233px;
   width: 233px;
   background-color: #B2EBF2;
-  margin-left: -310px;
-  margin-top: -233px;
+  margin-left: -305px;
+  margin-top: -237px;
+  /*position: relative;*/
 }
 
-#picture {
-  height: 699px;
-  grid-column: 4;
-  grid-row: 1;
-  margin-left: -155px;
-}
 
 .text {
   color: white;
@@ -103,16 +107,41 @@
   width: 80px;
 }
 
-/*.icons:hover {
-  cursor: pointer;
-}*/
-
-/*.text:hover {
-  cursor: pointer;
-}*/
 
 .click:hover {
   cursor: pointer;
-   text-shadow: 2px 2px 2px #FFFFFF;
+   text-shadow: 2px 2px 2px #212121;
+}
+
+
+#picture {
+  height: 699px;
+  grid-column: 4;
+  grid-row: 1;
+  margin-left: -72px;
+  /*position: absolute;*/
+}
+
+.picture-container {
+  position: relative;
+}
+#left-arrow {
+  height: 50px;
+  width: 50px;
+  grid-column: 4;
+  grid-row: 1;
+  position: absolute;
+  margin-top: 310px;
+  margin-left: -55px;
+}
+
+#right-arrow{
+  height: 50px;
+  width: 50px;
+  grid-column: 4;
+  grid-row: 1;
+  position: absolute;
+  margin-top: 310px;
+  margin-left: -72px;
 }
 
