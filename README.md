@@ -17,14 +17,14 @@
 #### Copy
 #### Images
 #### Icons
-#### Color palette, but ONLY if you select a complementary palette. We highly encourage you to visit sites like: material palette or coolors or color-hex.
+#### Color palette (only a complementary palette)
 
 ## **Base Requirements**
 
 #### Basic static site setup with index.html and styles.css
 #### Site must be responsive
 
-### **Template:** 
+### **Template:** http://frontend.turing.io/projects/m1-static-comp-1.html
 
 ![alt text](https://github.com/hljacobs5/hj-comp-challenge-1/blob/master/template-1.png)
 
