@@ -28,7 +28,7 @@
 
 ![alt text](https://github.com/hljacobs5/hj-comp-challenge-1/blob/master/template-1.png)
 
-### **My version:**
+### **My version:** https://hljacobs5.github.io/hj-comp-challenge-1/
 
 ![alt text](https://github.com/hljacobs5/hj-comp-challenge-1/blob/master/elon-musk.png)
 
