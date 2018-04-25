@@ -24,7 +24,7 @@
 #### Basic static site setup with index.html and styles.css
 #### Site must be responsive
 
-### **Template:** http://frontend.turing.io/projects/m1-static-comp-1.html
+### **Project Template:** http://frontend.turing.io/projects/m1-static-comp-1.html
 
 ![alt text](https://github.com/hljacobs5/hj-comp-challenge-1/blob/master/template-1.png)
 
